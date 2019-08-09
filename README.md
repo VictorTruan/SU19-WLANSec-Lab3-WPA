@@ -1,5 +1,7 @@
 # Wireless Networks and Security
 
+## Authors : Taesunk Joung, Victor Truan and Edin Mujkanovic
+
 ## WPA Security
 
 __Korean/Swiss hybrid teams are highly encouraged__
